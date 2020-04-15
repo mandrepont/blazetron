@@ -5,7 +5,7 @@
 ## **Background Information:**
 
 *   **What is Blazor?**
-    *   From the [Blazor Github](https://github.com/aspnet/Blazor), Blazor is "an experimental .NET web framework using C#/Razor and HTML that runs in the browser via WebAssembly"
+    *   From the [Blazor Github](https://github.com/aspnet/Blazor), Blazor is a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly."
 *   **What is Electron.NET?**
     *   From the [Electron.NET Github](https://github.com/ElectronNET/Electron.NET), "Electron.NET is a **wrapper** around a "normal" Electron application with an embedded ASP.NET Core application".
 
